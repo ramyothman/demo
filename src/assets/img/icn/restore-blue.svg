@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="16px" viewBox="0 0 18 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/table/restore-blue@1.5x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Job-Lists-1.0.0.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="List-Process-1.2.2.0-List-Settings-Export" transform="translate(-979.000000, -239.000000)" fill="#0078D7">
+            <g id="table-actions" transform="translate(240.000000, 106.000000)">
+                <g id="table-settings" transform="translate(723.000000, 39.000000)">
+                    <g id="icon/table/restore-blue" transform="translate(16.000000, 92.000000)">
+                        <path d="M18,10.059792 L15.7186214,10.059792 L15.7186214,9.86126255 C15.6147475,5.56721664 12.1368955,2.11764706 7.8617152,2.11764706 C3.51920919,2.11764706 4.97379915e-14,5.67374462 4.97379915e-14,10.059792 C4.97379915e-14,14.4458393 3.51920919,18 7.8617152,18 C9.68720278,18 11.3674593,17.3705165 12.7024312,16.316858 L11.3501469,14.86033 C10.3729629,15.5847202 9.16687149,16.0156743 7.8617152,16.0156743 C4.60507614,16.0156743 1.9649479,13.3486011 1.9649479,10.059792 C1.9649479,6.77098278 4.60507614,4.10390961 7.8617152,4.10390961 C11.0519904,4.10390961 13.6497996,6.66348637 13.7527117,9.86126255 L13.7527117,10.059792 L11.1827945,10.059792 L14.5433075,13.8308824 L18,10.059792 Z" id="Page-1" transform="translate(9.000000, 10.058824) scale(-1, 1) translate(-9.000000, -10.058824) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

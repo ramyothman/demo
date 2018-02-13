@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/table/export-blue@1.5x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Job-Lists-1.0.0.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="List-Process-1.2.2.0-List-Settings-Export" transform="translate(-979.000000, -165.000000)" fill="#0078D7">
+            <g id="table-actions" transform="translate(240.000000, 106.000000)">
+                <g id="table-settings" transform="translate(723.000000, 39.000000)">
+                    <g id="icon/table/export-blue" transform="translate(15.000000, 19.000000)">
+                        <path d="M19,10 L13,5 L13,8 L6.50342274,8 C6.22539004,8 6,8.21505737 6,8.49047852 L6,11.5095215 C6,11.7804053 6.23290253,12 6.50342274,12 L13,12 L13,15 L19,10 Z M3,3 L10.4995642,3 C10.7759472,3 11,2.78596497 11,2.49531555 L11,1.50468445 C11,1.22595492 10.7692032,1 10.4995642,1 L3,1 C1.9,1 1,1.9 1,3 L1,17 C1,18.1 1.9,19 3,19 L10.4995642,19 C10.7759472,19 11,18.785965 11,18.4953156 L11,17.5046844 C11,17.2259549 10.7692032,17 10.4995642,17 L3,17 L3,3 Z" id="Page-1" transform="translate(10.000000, 10.000000) rotate(-90.000000) translate(-10.000000, -10.000000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

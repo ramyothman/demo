@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="16px" viewBox="0 0 14 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/filter/filter-blue@svg</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Sales-Inquiry" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Inquiry-1.1.2.1-Index" transform="translate(-284.000000, -282.000000)" fill="#0078D7">
+            <g id="offer-items-table" transform="translate(240.000000, 251.000000)">
+                <g id="table-header-multi" transform="translate(11.000000, 21.000000)">
+                    <g id="icon/filter/filter-blue" transform="translate(32.000000, 10.000000)">
+                        <path d="M2.84463936,0.8 L13.1553606,0.8 L13.1553606,0.8 C13.7076454,0.8 14.1553606,1.24771525 14.1553606,1.8 C14.1553606,2.02237586 14.0812384,2.23840773 13.9447129,2.41394061 L9.6,8 L9.6,12.8 L6.4,15.2 L6.4,8 L2.05528714,2.41394061 L2.05528714,2.41394061 C1.71621711,1.97799342 1.79475156,1.34971782 2.23069875,1.01064778 C2.40623163,0.874122208 2.6222635,0.8 2.84463936,0.8 Z" id="Rectangle-5"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

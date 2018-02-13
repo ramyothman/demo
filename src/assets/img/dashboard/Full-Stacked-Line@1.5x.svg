@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>DB / Icons / Components / Full-Stacked-Line@1.5x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Dashboards-2.0.0.0-Chart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="D.2.1.2.0-Edit-Index" transform="translate(-851.000000, -1701.000000)">
+            <g id="Chart-Bindings" transform="translate(742.000000, 1471.000000)">
+                <g id="Stacked-Group" transform="translate(0.000000, 9.000000)">
+                    <g id="Tab" transform="translate(0.000000, 217.000000)">
+                        <g id="Group-5" transform="translate(19.000000, 4.000000)">
+                            <g id="DB-/-Icons-/-Components-/-Full-Stacked-Line" transform="translate(90.000000, 0.000000)">
+                                <g id="DB-/-Icons-/-Bubble-Map" stroke-width="1" fill-rule="evenodd" transform="translate(0.000000, -9.000000)"></g>
+                                <path d="M0,0 L24,0 L24,24 L0,24 L0,0 Z M1,1 L1,23 L23,23 L23,1 L1,1 Z" id="DB-/-Icons-/-Grid" fill="#4E546C" fill-rule="evenodd"></path>
+                                <path d="M5,7 L20,7 C20.5522847,7 21,6.55228475 21,6 C21,5.44771525 20.5522847,5 20,5 L5,5 C4.44771525,5 4,5.44771525 4,6 C4,6.55228475 4.44771525,7 5,7 Z" id="Path-7" fill="#4A90E2" fill-rule="nonzero"></path>
+                                <path d="M8.44444444,11.3663765 L3.30887992,16.27726 C2.90972167,16.6589551 2.89556497,17.2919618 3.27726005,17.6911201 C3.65895513,18.0902783 4.29196183,18.104435 4.69112008,17.72274 L8.44444444,14.1336235 L12.898981,18.3932741 L20.7015173,10.7126525 C21.0951043,10.3252152 21.1000897,9.69206982 20.7126525,9.29848274 C20.3252152,8.90489565 19.6920698,8.89991025 19.2984827,9.28734754 L12.8787968,15.6067259 L8.44444444,11.3663765 Z" id="Path-6" fill="#4E546C" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

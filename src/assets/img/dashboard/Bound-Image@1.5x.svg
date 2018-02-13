@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>DB / Icons / Components / Bound-Image@1.5x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DB-/-Icons-/-Components-/-Bound-Image">
+            <polygon id="Combined-Shape" fill="#4E546C" points="16 0 0 0 0 24 24 24 24 11 23 11 23 23 1 23 1 1 16 1"></polygon>
+            <path d="M17,3 C17,4.1045695 18.5670034,5 20.5,5 C22.4329966,5 24,4.1045695 24,3 L24,5 C24,6.1045695 22.4329966,7 20.5,7 C18.5670034,7 17,6.1045695 17,5 L17,3 Z M17,6 C17,7.1045695 18.5670034,8 20.5,8 C22.4329966,8 24,7.1045695 24,6 L24,8 C24,9.1045695 22.4329966,10 20.5,10 C18.5670034,10 17,9.1045695 17,8 L17,6 Z M20.5,4 C18.5670034,4 17,3.1045695 17,2 C17,0.8954305 18.5670034,0 20.5,0 C22.4329966,0 24,0.8954305 24,2 C24,3.1045695 22.4329966,4 20.5,4 Z" id="Combined-Shape" fill="#4A90E2"></path>
+            <polygon id="Path" fill="#4A90E2" points="14.3020607 11.9236375 20.0572123 19.9808498 8.54690901 19.9808498"></polygon>
+            <polygon id="Path" fill="#4A90E2" points="9.69793934 13.0746679 10.8489697 15.3767285 7.39587868 19.9808498 3.94278769 19.9808498"></polygon>
+            <path d="M9.5,5 L9.5,5 L9.5,5 C11.4329966,5 13,6.56700338 13,8.5 L13,8.5 L13,8.5 C13,10.4329966 11.4329966,12 9.5,12 L9.5,12 L9.5,12 C7.56700338,12 6,10.4329966 6,8.5 L6,8.5 L6,8.5 C6,6.56700338 7.56700338,5 9.5,5 Z" id="Path" fill="#4A90E2"></path>
+        </g>
+    </g>
+</svg>

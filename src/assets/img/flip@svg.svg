@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="79px" height="129px" viewBox="0 0 79 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <rect id="path-1" x="0" y="0.5" width="74.0414508" height="123.645833" rx="8.00000012"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FAFAFA" offset="0%"></stop>
+            <stop stop-color="#F6F6F6" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,8.99457491 C0,4.57929311 3.58367439,1 7.99408093,1 L66.0473698,1 C70.4623788,1 74.0414508,4.58590506 74.0414508,8.99457491 L74.0414508,63.125 L0,63.125 L0,8.99457491 Z" id="path-4"></path>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="74.0414508" height="62.125" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+        <path d="M0,69.5154082 C0,65.1001264 3.58367439,61.5208333 7.99408093,61.5208333 L66.0473698,61.5208333 C70.4623788,61.5208333 74.0414508,65.1067384 74.0414508,69.5154082 L74.0414508,123.645833 L0,123.645833 L0,69.5154082 Z" id="path-6"></path>
+        <mask id="mask-7" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="74.0414508" height="62.125" fill="white">
+            <use xlink:href="#path-6"></use>
+        </mask>
+    </defs>
+    <g id="Configurations-2.0.0.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Config-1.2.3.0-Serial-Combination-New" transform="translate(-760.000000, -288.000000)">
+            <g id="items" transform="translate(604.000000, 288.000000)">
+                <g id="no" transform="translate(158.000000, 0.000000)">
+                    <g id="flip">
+                        <g id="Shadow" fill-opacity="1" fill="black">
+                            <use filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        </g>
+                        <use id="Flip-Top" stroke="#9EB1BA" mask="url(#mask-5)" stroke-width="2" fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                        <use id="Flip-Bottom" stroke="#9EB1BA" mask="url(#mask-7)" stroke-width="2" fill="#FFFFFF" transform="translate(37.020725, 92.583333) scale(1, -1) translate(-37.020725, -92.583333) " xlink:href="#path-6"></use>
+                        <path d="M67.6373057,56.7035692 C67.6373057,55.8202436 68.3479494,55.1041667 69.238342,55.1041667 C70.1225699,55.1041667 70.8393782,55.8309124 70.8393782,56.7035692 L70.8393782,66.3380975 C70.8393782,67.2214231 70.1287346,67.9375 69.238342,67.9375 C68.3541141,67.9375 67.6373057,67.2107543 67.6373057,66.3380975 L67.6373057,56.7035692 Z M3.20207254,56.7035692 C3.20207254,55.8202436 3.91271622,55.1041667 4.80310881,55.1041667 C5.68733672,55.1041667 6.40414508,55.8309124 6.40414508,56.7035692 L6.40414508,66.3380975 C6.40414508,67.2214231 5.6935014,67.9375 4.80310881,67.9375 C3.91888089,67.9375 3.20207254,67.2107543 3.20207254,66.3380975 L3.20207254,56.7035692 Z" id="Flip-Holder" fill="#D8D8D8"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

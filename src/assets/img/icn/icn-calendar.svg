@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="UI/Sales/Inquiry-Data" transform="translate(-203.000000, -40.000000)" stroke="#0078D7">
+            <g id="inquiry-data-container">
+                <g id="input-inquiry-date" transform="translate(10.000000, 10.000000)">
+                    <g id="icon/calendar/cal-blue" transform="translate(193.000000, 30.000000)">
+                        <g id="Group-2" transform="translate(1.000000, 1.000000)">
+                            <path d="M2,18 C0.89544,18 0,17.10456 0,16 L0,4 C0,2.89544 0.89544,2 2,2 L16,2 C17.10456,2 18,2.89544 18,4 L18,16 C18,17.10456 17.10456,18 16,18 L2,18 Z" id="Stroke-1" stroke-linecap="round"></path>
+                            <path d="M14,0 L14,4" id="Stroke-3" stroke-linecap="round"></path>
+                            <path d="M4,0 L4,4" id="Stroke-5" stroke-linecap="round"></path>
+                            <path d="M0,6 L18,6" id="Stroke-7" stroke-linecap="round"></path>
+                            <path d="M2,9 L4,9" id="Stroke-7-Copy-4"></path>
+                            <path d="M6,9 L8,9" id="Stroke-7-Copy-5"></path>
+                            <path d="M10,9 L12,9" id="Stroke-7-Copy-6"></path>
+                            <path d="M14,9 L16,9" id="Stroke-7-Copy-7"></path>
+                            <path d="M2,12 L4,12" id="Stroke-7-Copy-11"></path>
+                            <path d="M6,12 L8,12" id="Stroke-7-Copy-10"></path>
+                            <path d="M6,15 L8,15" id="Stroke-7-Copy-14"></path>
+                            <path d="M10,12 L12,12" id="Stroke-7-Copy-9"></path>
+                            <path d="M14,12 L16,12" id="Stroke-7-Copy-8"></path>
+                            <path d="M10,15 L12,15" id="Stroke-7-Copy-13"></path>
+                            <path d="M14,15 L16,15" id="Stroke-7-Copy-12"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

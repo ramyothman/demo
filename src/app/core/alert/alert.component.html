@@ -1,0 +1,18 @@
+<div id="alertsHolder" *ngIf="openedAlert">
+  <div class="container">
+    <div [class]="'alert ' + insertType">
+      <div class="alert-message-content">
+        <a class="close" (click)="closeAlert()" *ngIf="withCloseButton"><span class="icn-close"></span></a>
+        <div class="msgText">
+          <span [class]="alertIcon"></span> <b>{{msgText}}</b>
+          <div class="row alert-message-content-details" *ngIf="messageList && messageList.length > 0">
+            <div class="col col-md-6" *ngFor="let item of messageList"><i class="" aria-hidden="true">-</i> {{item}}</div>
+            <!--<ul class="alert-message-list" *ngIf="messageList && messageList.length > 0">
+              <li></li>
+            </ul>-->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

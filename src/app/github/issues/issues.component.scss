@@ -1,0 +1,32 @@
+@import "../../../sass/_format_variables";
+
+
+.issues-header {
+  margin-top: 20px;
+  background-color: #f6f8fa;
+  border: 1px solid #e1e4e8;
+  border-radius: 3px 3px 0 0;
+  color: $issues-title;
+
+  .title {
+    display: inline-block;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+  }
+}
+
+.issue-container {
+  padding: 8px !important;
+  line-height: 1.25 !important;
+  border-left: 1px #e1e4e8 solid !important;
+  border-right: 1px #e1e4e8 solid !important;
+  border-bottom: 1px #e1e4e8 solid !important;
+
+  .issue-title {
+    font-weight: 600 !important;
+    font-size: 16px;
+  }
+}

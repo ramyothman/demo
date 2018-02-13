@@ -1,0 +1,236 @@
+﻿@font-face {
+  font-family: 'pams-icon';
+  src: url('pams-icon.eot?6osrza');
+  src: url('pams-icon.eot?6osrza#iefix') format('embedded-opentype'), url('pams-icon.ttf?6osrza') format('truetype'), url('pams-icon.woff?6osrza') format('woff'), url('pams-icon.svg?6osrza#pams-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+[class^="icn-"]:before, [class*=" icn-"]:before {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'pams-icon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Enable Ligatures ================ */
+    letter-spacing: 0;
+    -webkit-font-feature-settings: "liga";
+    -moz-font-feature-settings: "liga=1";
+    -moz-font-feature-settings: "liga";
+    -ms-font-feature-settings: "liga" 1;
+    font-feature-settings: "liga";
+    -webkit-font-variant-ligatures: discretionary-ligatures;
+    font-variant-ligatures: discretionary-ligatures;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icn-nav-inquiry:before {
+    content: "\e919";
+}
+
+.icn-nav-inquiries:before {
+    content: "\e916";
+}
+
+.icn-nav-offers:before {
+    content: "\e91c";
+}
+
+.icn-nav-orders:before {
+    content: "\e91d";
+}
+
+.icn-nav-projects:before {
+    content: "\e91e";
+}
+
+.icn-nav-suppliers-registration:before {
+    content: "\e911";
+}
+
+.icn-nav-visits:before {
+    content: "\e923";
+}
+
+.icn-nav-job-search:before {
+    content: "\e91a";
+}
+
+.icn-plus-oval:before {
+    content: "\e927";
+}
+.icn-arrow-down:before {
+  content: "\e900";
+}
+.icn-arrow-up:before {
+  content: "\e901";
+}
+.icn-arrow-oval-left:before {
+  content: "\e902";
+}
+.icn-arrow-oval-right:before {
+  content: "\e903";
+}
+.icn-calendar:before {
+  content: "\e904";
+}
+.icn-cancel-oval:before {
+  content: "\e905";
+}
+.icn-cancel:before {
+  content: "\e906";
+}
+.icn-close:before {
+  content: "\e907";
+}
+.icn-correct-oval-check:before {
+  content: "\e908";
+}
+.icn-correct-right-check:before {
+  content: "\e909";
+}
+.icn-curreny-exchange:before {
+  content: "\e90a";
+}
+.icn-delete-pin-forever:before {
+  content: "\e90b";
+}
+.icn-delete-pin:before {
+  content: "\e90c";
+}
+.icn-dot-menu-her:before {
+  content: "\e90d";
+}
+.icn-drag:before {
+  /*content: "\e90e";*/
+}
+.icn-edit:before {
+  content: "\e90f";
+}
+.icn-flag:before {
+  content: "\e910";
+}
+.icn-nav-job-registartion:before {
+  content: "\e911";
+}
+.icn-nav-archive:before {
+  content: "\e912";
+}
+.icn-nav-configurations:before {
+  content: "\e913";
+}
+.icn-nav-dashboard:before {
+  content: "\e914";
+}
+.icn-nav-finance:before {
+  content: "\e915";
+}
+.icn-nav-inquiries:before {
+  content: "\e916";
+}
+.icn-nav-inquiry-cancelled:before {
+  content: "\e917";
+}
+.icn-nav-inquiry-delete:before {
+  content: "\e918";
+}
+.icn-nav-inquiry:before {
+  content: "\e919";
+}
+.icn-nav-job-search:before {
+  content: "\e91a";
+}
+.icn-nav-notifications:before {
+  content: "\e91b";
+}
+.icn-nav-offer:before {
+  content: "\e91c";
+}
+.icn-nav-order:before {
+  content: "\e91d";
+}
+.icn-nav-project:before {
+  content: "\e91e";
+}
+.icn-nav-sales:before {
+  content: "\e91f";
+}
+.icn-nav-search:before {
+  content: "\e920";
+}
+.icn-nav-security:before {
+  content: "\e921";
+}
+.icn-nav-user:before {
+  content: "\e922";
+}
+.icn-nav-visits:before {
+  content: "\e923";
+}
+.icn-oval:before {
+  content: "\e924";
+}
+.icn-package-add:before {
+  content: "\e925";
+}
+.icn-payment-milestone-add:before {
+  content: "\e926";
+}
+.icn-plus-oval:before {
+  content: "\e927";
+}
+.icn-plus:before {
+  content: "\e928";
+}
+.icn-radio-check:before {
+  content: "\e929";
+}
+.icn-radio-uncheck:before {
+  content: "\e92a";
+}
+.icn-revert:before {
+  content: "\e92b";
+}
+.icn-save:before {
+  content: "\e92c";
+}
+.icn-table-cancelled:before {
+  content: "\e92d";
+}
+.icn-table-lost:before {
+  content: "\e92e";
+}
+.icn-table-regretted:before {
+  content: "\e92f";
+}
+.icn-tree-box:before {
+  content: "\e930";
+}
+.icn-tree-check-box:before {
+  content: "\e931";
+}
+.icn-tree-check:before {
+  content: "\e932";
+}
+.icn-tree-mins-box:before {
+  content: "\e933";
+}
+.icn-tree-mins:before {
+  content: "\e934";
+}
+.icn-tree-plus-box:before {
+  content: "\e935";
+}
+.icn-tree-plus:before {
+  content: "\e936";
+}
+.icn-uintized-add:before {
+  content: "\e937";
+}
+.icn-version:before {
+  content: "\e938";
+}

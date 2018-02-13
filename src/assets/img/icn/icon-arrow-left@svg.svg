@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="24px" viewBox="0 0 22 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.619607843   0 0 0 0 0.694117647   0 0 0 0 0.729411765  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Design-System-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UI-Component---Currency-Picker" transform="translate(-307.000000, -2572.000000)" fill="#FFFFFF">
+            <g id="Contents">
+                <g id="Group-11" transform="translate(240.000000, 2485.000000)">
+                    <g id="date-picker-min" filter="url(#filter-1)" transform="translate(68.000000, 71.000000)">
+                        <polygon id="icon-arrow-left" transform="translate(10.000000, 28.000000) scale(-1, 1) translate(-10.000000, -28.000000) " points="8 24.485 8.43125 24 12 28 8.43125 32 8 31.5175 11.1354167 28"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

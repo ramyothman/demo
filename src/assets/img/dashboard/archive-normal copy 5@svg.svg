@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="20px" viewBox="0 0 17 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>nav/icon/archive-normal copy 5@svg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2,3.5 C5.02627563,3.08642578 7.77627563,1.91975911 10.25,0 C12.2452774,1.93408203 14.9952774,3.1007487 18.5,3.5 L18.5,10.5 C18.5,14.3398748 15.7582,17.3592311 10.25,19.5 C4.74180004,17.3592311 2,14.3398748 2,10.5 L2,3.5 Z M6.87408009,8.74440916 C6.58118687,8.45151594 6.10631313,8.45151594 5.81341991,8.74440916 C5.5205267,9.03730238 5.5205267,9.51217611 5.81341991,9.80506933 L9.40719178,13.3988412 L15.3694529,7.43658009 C15.6623461,7.14368687 15.6623461,6.66881313 15.3694529,6.37591991 C15.0765597,6.0830267 14.6016859,6.0830267 14.3087927,6.37591991 L9.40719178,11.2775209 L6.87408009,8.74440916 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="main-nav/sales" transform="translate(-426.000000, -15.000000)">
+            <g id="main-nav">
+                <g id="Nav-Left" transform="translate(16.000000, 3.000000)">
+                    <g id="nav-archive" transform="translate(408.000000, 11.000000)">
+                        <g id="nav/icon/Guarantees" transform="translate(0.000000, 1.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Combined-Shape" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

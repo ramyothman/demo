@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>DB / Icons / Components / Stacked Bar@1.5x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Dashboards-2.0.0.0-Chart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="D.2.1.2.0-Edit-Index" transform="translate(-790.000000, -1561.000000)">
+            <g id="Chart-Bindings" transform="translate(742.000000, 1471.000000)">
+                <g id="Stacked-Group" transform="translate(0.000000, 9.000000)">
+                    <g id="Tab" transform="translate(0.000000, 77.000000)">
+                        <g id="Group-5" transform="translate(18.000000, 4.000000)">
+                            <g id="DB-/-Icons-/-Components-/-Stacked-Bar" transform="translate(30.000000, 0.000000)">
+                                <path d="M0,0 L24,0 L24,24 L0,24 L0,0 Z M1,1 L1,23 L23,23 L23,1 L1,1 Z" id="DB-/-Icons-/-Grid" fill="#4E546C"></path>
+                                <path d="M4,15 L8,15 L8,20 L4,20 L4,15 Z M10,10 L14,10 L14,20 L10,20 L10,10 Z M16,4 L20,4 L20,20 L16,20 L16,4 Z" id="Combined-Shape" fill="#4E546C"></path>
+                                <path d="M4,17 L8,17 L8,20 L4,20 L4,17 Z M10,15 L14,15 L14,20 L10,20 L10,15 Z M16,10 L20,10 L20,20 L16,20 L16,10 Z" id="Combined-Shape" fill="#4A90E2"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

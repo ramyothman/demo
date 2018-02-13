@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="19px" viewBox="0 0 20 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Edit/Edit-White@svg</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="S.1.0.0.0-Users" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="S.1.9.1.1-Users-Index" transform="translate(-439.000000, -417.000000)" stroke="#FFFFFF">
+            <g id="Group" transform="translate(249.000000, 271.000000)">
+                <g id="Icon/Files/Upload-White" transform="translate(190.000000, 145.000000)">
+                    <polyline id="Path-3" stroke-width="2" transform="translate(10.000000, 5.000000) rotate(-180.000000) translate(-10.000000, -5.000000) " points="6 3 10 7 14 3"></polyline>
+                    <polyline id="Path-3" stroke-width="1" transform="translate(10.001661, 15.831748) rotate(-45.000000) translate(-10.001661, -15.831748) " points="5.63417697 7.46896135 1.63887369 11.4689614 14.3644474 24.1945351 18.3644474 20.1945351"></polyline>
+                    <path d="M13.5,8.33333333 L5.5,8.33333333" id="Path-3-Copy" stroke-width="2" transform="translate(9.500000, 8.000000) rotate(-90.000000) translate(-9.500000, -8.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

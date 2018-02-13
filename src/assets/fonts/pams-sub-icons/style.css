@@ -1,0 +1,122 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?m34nxc');
+  src:  url('fonts/icomoon.eot?m34nxc#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?m34nxc') format('truetype'),
+    url('fonts/icomoon.woff?m34nxc') format('woff'),
+    url('fonts/icomoon.svg?m34nxc#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Client-Flat-Primary:before {
+  content: "\e900";
+}
+.icon-Clients-Flat-Primary-2:before {
+  content: "\e901";
+}
+.icon-Clients-Flat-Primary:before {
+  content: "\e902";
+}
+.icon-Commercial-Flat-Primary:before {
+  content: "\e903";
+}
+.icon-Company-Flat-Primary:before {
+  content: "\e904";
+}
+.icon-Contacts-Flat-Primary:before {
+  content: "\e905";
+}
+.icon-Delivery-Flat-Primary:before {
+  content: "\1f321";
+}
+.icon-Delivery-Flat-Smile-Primary:before {
+  content: "\e907";
+}
+.icon-Delivery-Flat-Symbol-Primary:before {
+  content: "\e908";
+}
+.icon-Excluded-Flat-Nocomment-Primary:before {
+  content: "\e909";
+}
+.icon-Excluded-Flat-Symbol-Primary:before {
+  content: "\e90a";
+}
+.icon-Inquiry-Flat-Primary:before {
+  content: "\e90b";
+}
+.icon-Inquiry-Flat-Symbol-Primary:before {
+  content: "\e90c";
+}
+.icon-Lost-Flat-Primary:before {
+  content: "\e90d";
+}
+.icon-Lost-Flat-Sad-Primary:before {
+  content: "\e90e";
+}
+.icon-Lost-Flat-Symbol-Primary:before {
+  content: "\e90f";
+}
+.icon-Offer-Flat-Primary:before {
+  content: "\e910";
+}
+.icon-Offer-Flat-Symbol-Primary:before {
+  content: "\e911";
+}
+.icon-Order-Flat-Primary:before {
+  content: "\e912";
+}
+.icon-Order-Flat-Symbol-Primary:before {
+  content: "\e913";
+}
+.icon-Principals-Flat-Primary-2:before {
+  content: "\e914";
+}
+.icon-Principals-Flat-Primary:before {
+  content: "\e915";
+}
+.icon-Products-Flat-Primary:before {
+  content: "\e916";
+}
+.icon-Project-Flat-Primary:before {
+  content: "\e917";
+}
+.icon-Projects-Flat-Primary-2:before {
+  content: "\e918";
+}
+.icon-Projects-Flat-Primary:before {
+  content: "\e919";
+}
+.icon-Sales-Flat-Primary:before {
+  content: "\e91a";
+}
+.icon-Search-Flat-Symbol-Primary:before {
+  content: "\e91b";
+}
+.icon-Serial-Flat-Primary:before {
+  content: "\e91c";
+}
+.icon-User-Flat-Primary:before {
+  content: "\e91d";
+}
+.icon-Users-Flat-Primary:before {
+  content: "\e91e";
+}
+.icon-Users-Roles-Primary:before {
+  content: "\e91f";
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="24px" viewBox="0 0 21 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>nav/icon/security-normal copy 2@svg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16.37,0.4 C15.970625,0.4 15.66,0.710625 15.66,1.11 L15.66,2.53 C15.66,2.929375 15.349375,3.24 14.95,3.24 L14.24,3.24 C13.840625,3.24 13.53,2.929375 13.53,2.53 L13.53,1.11 C13.53,0.710625 13.26375,0.4 12.82,0.4 L11.4,0.4 C11.000625,0.4 10.69,0.710625 10.69,1.11 L10.69,2.53 C10.69,2.929375 10.379375,3.24 9.98,3.24 L9.27,3.24 C8.870625,3.24 8.56,2.929375 8.56,2.53 L8.56,1.11 C8.56,0.710625 8.249375,0.4 7.85,0.4 L6.43,0.4 C6.030625,0.4 5.72,0.710625 5.72,1.11 L5.72,2.53 C5.72,2.929375 5.409375,3.24 5.01,3.24 L4.3,3.24 C3.900625,3.24 3.59,2.929375 3.59,2.53 L3.59,1.11 C3.59,0.710625 3.279375,0.4 2.88,0.4 L1.46,0.4 C1.060625,0.4 0.75,0.710625 0.75,1.11 L0.75,4.66 C0.75,5.81375 1.72625,6.79 2.88,6.79 L16.37,6.79 C17.52375,6.79 18.5,5.81375 18.5,4.66 L18.5,1.11 C18.5,0.710625 18.189375,0.4 17.79,0.4 L16.37,0.4 Z M15.4825,7.83150735 L3.7675,7.83150735 C3.4125,7.83150735 3.101875,8.09775735 3.0575,8.45275735 L1.46,18.7686397 C1.37125,19.2123897 1.72625,19.5673897 2.17,19.5673897 L6.740625,19.5673897 C7.14,19.5673897 7.495,19.2567647 7.495,18.8573897 L7.495,15.4405147 C7.495,14.2867647 8.3825,13.2217647 9.53625,13.2217647 C10.734375,13.1773897 11.755,14.1536397 11.755,15.3517647 L11.755,18.9017647 C11.755,19.3011397 12.11,19.6117647 12.509375,19.6117647 L17.08,19.6117647 C17.52375,19.6117647 17.87875,19.2123897 17.79,18.8130147 L16.1925,8.45275735 C16.148125,8.09775735 15.8375,7.83150735 15.4825,7.83150735 Z" id="path-1"></path>
+        <filter x="-19.7%" y="-13.0%" width="139.4%" height="136.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="main-nav/sales" transform="translate(-927.000000, -14.000000)" fill-rule="nonzero">
+            <g id="main-nav">
+                <g id="Nav-Left" transform="translate(16.000000, 3.000000)">
+                    <g id="nav-security" transform="translate(912.000000, 11.000000)">
+                        <g id="nav/icon/security-normal" transform="translate(0.000000, 1.000000)">
+                            <g id="security-icon-shape">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

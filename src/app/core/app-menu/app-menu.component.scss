@@ -1,0 +1,18 @@
+@import "../../../sass/_format_variables";
+.navbar-default {
+  @include bgGradientTB($menu-color-light,$menu-color);
+  color: $light-color;
+  background-image: none;
+
+  a {
+    color: $light-color;
+    &:hover{
+      color: orange;
+    }
+  }
+  .dropdown-menu{ a{ color: $dark-color;}}
+  .navbar-nav > .active > a, .navbar-default .navbar-nav > .open > a {
+    background-color: $selected-menu-item;
+    background-image: none;
+  }
+}

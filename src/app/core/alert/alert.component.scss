@@ -1,0 +1,110 @@
+$std-light: white;
+$success-color: #43BF00; //#2AC142 toast background, save button,..etc
+$error-color: #FF3E56;
+$warning-color: #FFC100;
+$info-color: #FFFBD3;
+#alertsHolder {
+  & {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    z-index: 1200;
+  }
+
+  .container {
+  }
+
+  .close {
+    & {
+      position: absolute;
+      top: 10px;
+      right: 15px;
+      color: $std-light;
+    }
+
+    span {
+      font-size: 14px;
+      color: $std-light;
+    }
+  }
+
+  .alert {
+    & {
+      position: relative;
+      border-radius: 0 0 5px 5px;
+      padding: 5px 40px 5px 50px;
+      box-shadow: 0 3px 4px rgba(0,0,0,0.5);
+    }
+
+    .msgText {
+      & {
+        padding: 5px 0;
+      }
+
+      [class^="icn"], [class*="icn"] {
+        position: absolute;
+        left: 10px;
+        top: 15%;
+        font-size: 24px;
+      }
+    }
+  }
+}
+
+.alert-success {
+  & {
+    background-color: $success-color;
+    border-color: $success-color;
+    color: $std-light;
+    padding: 15px;
+  }
+}
+
+.alert-danger {
+  & {
+    background-color: $error-color;
+    border-color: $error-color;
+    color: $std-light;
+    padding: 15px;
+  }
+}
+
+.alert-warning {
+  & {
+    background-color: $warning-color;
+    border-color: $warning-color;
+    color: $std-light;
+    padding: 15px;
+  }
+}
+
+.alert-info {
+  & {
+    background-color: $info-color;
+    border-color: $info-color;
+    color: $warning-color;
+    padding: 15px;
+  }
+}
+
+.alert-message-content {
+  width: 100%;
+}
+
+.alert-message-content-details {
+  .fa {
+    font-size: 10px !important;
+  }
+}
+
+.alert-message-list {
+  list-style-type: circle;
+  width: 90%;
+
+  li {
+    font-weight: normal;
+    float: left;
+    width: 45%;
+  }
+}

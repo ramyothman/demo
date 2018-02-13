@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "~font-awesome/css/font-awesome.min.css";
+@import "~devextreme/dist/css/dx.common.css";
+@import "~devextreme/dist/css/dx.light.css";
+@import "sass/_format_variables";
+
+body {
+  font-family: "open_sansregular";
+}
+
+.breadcrumbs-holder {
+  border-bottom: 1px solid #BBC7CE;
+  margin-bottom: 15px;
+  background-color: white;
+  min-height: 50px;
+  position: relative;
+  width: 100%;
+  border-bottom: 1px solid #e1e1e1;
+
+  .title {
+    color: $menu-color;
+    font-size: 24px;
+    font-weight: bold;
+  }
+}

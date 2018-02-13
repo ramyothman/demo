@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>DB / Icons / Field-Type / Date@1.5x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DB-/-Icons-/-Field-Type-/-Date">
+            <rect id="Rectangle-7" fill="#32A964" x="0" y="0" width="12" height="12" rx="1"></rect>
+            <path d="M6,2 C8.19998122,2 10,3.80001878 10,6 C10,8.19998122 8.21992488,10 6,10 C3.78007512,10 2,8.19998122 2,6 C2,3.80001878 3.78007512,2 6,2 Z M6.2,4 L5.6,4 L5.6,6.4 L7.7,7.65996244 L8,7.15996244 L6.2,6.09998122 L6.2,4 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

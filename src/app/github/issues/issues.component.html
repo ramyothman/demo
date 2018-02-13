@@ -1,0 +1,29 @@
+<div class="breadcrumbs-holder" id="breadcrumbsHolder">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col col-sm-12 title">
+        GitHub Issues
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="container" *ngIf="issues">
+  <div class="row">
+    <div class="col col-sm-12 issues-header">
+      <div class="title"><span class="fa fa-info-circle"></span> {{issues.length}} Issues</div>
+    </div>
+  </div>
+  <div class="row issue-container" *ngFor="let issue of issues">
+    <div class="col col-sm-9">
+      <div class="issue-title">
+        {{issue.title}}
+      </div>
+      <div class="issue-details">
+        #{{issue.id}}
+      </div>
+    </div>
+    <div class="col col-sm-3"></div>
+  </div>
+</div>

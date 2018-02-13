@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="4px" viewBox="0 0 18 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M5,10 C5,11.104 4.104,12 3,12 C1.896,12 1,11.104 1,10 C1,8.896 1.896,8 3,8 C4.104,8 5,8.896 5,10 Z M9.99523926,8 C8.89123926,8 7.99523926,8.896 7.99523926,10 C7.99523926,11.104 8.89123926,12 9.99523926,12 C11.0992393,12 11.9952393,11.104 11.9952393,10 C11.9952393,8.896 11.0992393,8 9.99523926,8 Z M17,8 C15.896,8 15,8.896 15,10 C15,11.104 15.896,12 17,12 C18.104,12 19,11.104 19,10 C19,8.896 18.104,8 17,8 Z" id="path-1"></path>
+    </defs>
+    <g id="Inquiry-1.0.0.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Inquiry-1.1.6.2" transform="translate(-480.000000, -439.000000)">
+            <g id="process-data-container" transform="translate(239.000000, 416.000000)">
+                <g id="convert-offer" transform="translate(134.000000, 9.000000)">
+                    <g id="icon/dot-menu/dot-gray" transform="translate(106.000000, 6.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="dot-menu-icon-shape" fill="#77909D" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,40 @@
+$menu-color: #004F8D;
+$menu-color-light: #0B61A8;
+$selected-menu-item: #0078D7;
+$light-color: #fff;
+$dark-color: black;
+$issues-title: #24292e;
+@mixin borderRadius($bw, $wb2, $wb3, $wb4) {
+  -webkit-border-radius: $bw $wb2 $wb3 $wb4;
+  -moz-border-radius: $bw $wb2 $wb3 $wb4;
+  border-radius: $bw $wb2 $wb3 $wb4;
+}
+
+@mixin opacity($transparency) {
+  $transparencypercentage: #{transparency}*100;
+  opacity: $transparency;
+  filter: alpha(opacity= $transparencypercentage);
+}
+
+@mixin bgGradientTB($bg1, $bg2) {
+  background-color: $bg1; //Old browsers
+  background-color: -moz-linear-gradient(top, $bg1 0%, $bg2 100%); //FF3.6-15
+  background-color: -webkit-linear-gradient(top, $bg1 0%,$bg2 100%); //Chrome10-25,Safari5.1-6
+  background-color: linear-gradient(to bottom, $bg1 0%, $bg2 100%); //W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=$bg1, endColorstr=$bg2, GradientType=0 ); //IE6-9
+}
+
+@mixin bgGradientLR($bg1, $bg2) {
+  background-color: $bg1; //Old browsers
+  background-color: -moz-linear-gradient(left, $bg1 0%, $bg2 100%); //FF3.6-15
+  background-color: -webkit-linear-gradient(left, $bg1 0%,$bg2 100%); //Chrome10-25,Safari5.1-6
+  background-color: linear-gradient(to right, $bg1 0%, $bg2 100%); //W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=$bg1, endColorstr=$bg2, GradientType=1 ); //IE6-9
+}
+
+@mixin transition($property, $sec) {
+  -webkit-transition: $property $sec ease-in-out;
+  -moz-transition: $property $sec ease-in-out;
+  -o-transition: $property $sec ease-in-out;
+  transition: $property $sec ease-in-out;
+}

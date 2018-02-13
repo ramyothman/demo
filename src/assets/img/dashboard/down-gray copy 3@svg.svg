@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/arrow/down-gray copy 3@svg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2.96550727,4.96999529 C2.68903952,4.96999529 2.61581386,5.12711212 2.80579865,5.32492955 L6.65928294,9.33728443 C6.84754605,9.5333092 7.15105918,9.53510186 7.34104396,9.33728443 L11.1945283,5.32492955 C11.3827914,5.12890477 11.3111931,4.96999529 11.0348196,4.96999529 L2.96550727,4.96999529 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="main-nav/sales" transform="translate(-1408.000000, -22.000000)">
+            <g id="main-nav">
+                <g id="Menu-Right" transform="translate(1281.000000, 7.000000)">
+                    <g id="nav-user" transform="translate(84.000000, 3.000000)">
+                        <g id="icon/arrow/down-gray" transform="translate(41.000000, 8.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="arrow-down-icon-shape" fill="#77909D" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
